@@ -14,3 +14,11 @@ Elegí HealthCore porque no es solo un sector que me gusta (el de empatizar con 
 ## Reto de IA que más ganas tengo de construir
 
 Me gustaría construir todos, pero los que más destacan para mí son el revisor de reclamaciones con IA (detectar las de riesgo antes de enviarlas) y la API clínica unificada que consolida los dos historiales.
+
+## My AI Agent Idea
+
+El agente revisaría cada reclamación antes de enviarla y marcaría las que tienen alto riesgo de ser rechazadas.
+
+Necesitaría el historial de reclamaciones rechazadas anteriores, los datos de la reclamación actual (código, seguro, paciente), y las reglas de rechazo más comunes.
+
+Produciría una alerta o etiqueta de riesgo alto o bajo antes de enviarla, junto con una sugerencia de qué corregir.
